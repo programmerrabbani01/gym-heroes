@@ -1,0 +1,16 @@
+.not-found h2 {
+    color: #fb5b21;
+    font-size: 100px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.not-found p {
+    font-size: 30px;
+    text-align: center;
+    color: #000;
+}
+
+.not-found {
+    text-align: center;
+}

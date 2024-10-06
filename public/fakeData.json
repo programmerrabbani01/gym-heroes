@@ -1,0 +1,58 @@
+[{
+        "id": 0,
+        "classes": "Cycling",
+        "price": 500,
+        "img": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2016/12/class_05-360x300.jpg",
+        "teacher": "Jessica Doe",
+        "designation": "Computer Scientist"
+    },
+    {
+        "id": 1,
+        "classes": "Martial Arts",
+        "price": 700,
+        "img": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2016/12/class_04-360x300.jpg",
+        "teacher": "Kevin Martin",
+        "designation": "Computer Scientist"
+    },
+    {
+        "id": 2,
+        "classes": "Running",
+        "price": 700,
+        "img": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2016/12/class_02-360x300.jpg",
+        "teacher": "Beckham",
+        "designation": "Business Analysis"
+    },
+    {
+        "id": 3,
+        "classes": "Meditation",
+        "price": 300,
+        "img": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2016/12/class_01-360x300.jpg",
+        "teacher": "David Joe",
+        "designation": "Business Analysis"
+    },
+    {
+        "id": 4,
+        "classes": "Karate",
+        "price": 800,
+        "img": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2016/12/class_04-360x300.jpg",
+        "teacher": "David jane",
+        "designation": "Business Analysis"
+    },
+    {
+        "id": 5,
+        "classes": "Yoga",
+        "price": 600,
+        "img": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2016/12/class_03-360x300.jpg",
+        "teacher": "Jack Rose",
+        "designation": "Computer Scientist"
+    },
+    {
+        "id": 6,
+        "classes": "Body Building",
+        "price": 500,
+        "img": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2016/12/class_03-360x300.jpg",
+        "teacher": "Jenica Smith",
+        "designation": "Computer Scientist"
+    }
+
+]

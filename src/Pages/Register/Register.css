@@ -1,0 +1,21 @@
+.register-text {
+    color: #fb5b21;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.register-btn {
+    background-color: #fb5b21 !important;
+    border: none !important;
+}
+
+.allready-register {
+    text-decoration: none;
+    font-size: 18px;
+    color: #333333;
+}
+
+.allready-register:hover {
+    color: #fb5b21;
+}

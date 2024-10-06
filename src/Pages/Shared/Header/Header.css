@@ -1,0 +1,36 @@
+.gym-name {
+    color: #fb5b21;
+}
+
+.navbar-brand {
+    color: #333333 !important;
+    font-size: 35px !important;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+
+.displayName {
+    margin-top: 5px;
+    padding: 5px;
+    color: #fb5b21;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.navbar-nav a {
+    color: #333333 !important;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 400;
+    text-transform: uppercase !important;
+}
+
+.navbar-nav a:hover {
+    color: #fb5b21 !important;
+}
+
+.log-out {
+    background-color: #fb5b21 !important;
+    color: #fff !important;
+    font-family: 'Roboto', sans-serif !important;
+}

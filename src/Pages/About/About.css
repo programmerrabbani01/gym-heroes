@@ -1,0 +1,16 @@
+.about-title {
+    font-size: 20px;
+    color: #00bcd4;
+}
+
+.about-heading {
+    color: #000;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about-descrition {
+    font-size: 18px;
+}
